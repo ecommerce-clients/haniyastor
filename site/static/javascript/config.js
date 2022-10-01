@@ -1,0 +1,1 @@
+var SubDomain = 'haniyastor'; var SiteID = '5090EA36-D0B3-48E5-98D0-5A3E5454B25F'; var host = 'https://api.eraconnect.net';
